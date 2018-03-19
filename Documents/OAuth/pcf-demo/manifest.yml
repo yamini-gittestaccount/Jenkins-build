@@ -1,0 +1,8 @@
+applications:
+-  name: PCF-DEMO
+   instances: 2
+   memory: 512M
+   host: pcf-demo-dev
+   path: target/demo-0.0.1-SNAPSHOT.jar
+
+  
